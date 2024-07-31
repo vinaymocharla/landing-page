@@ -277,9 +277,12 @@ button{
 
 }
 
-.header-logo{
+.header{
 
-    padding-left: 120px;
+    padding-left: 455px;
+    padding-right: 455px;
+    
+    
 }
 
 .content-two h2{
