@@ -1,6 +1,8 @@
 body{
     display: flex;
     flex-direction: column;
+    margin: 0%;
+    
 }
 
 ul{
@@ -72,6 +74,8 @@ a{
 }
 
 
+
+
 .block{
     
     
@@ -85,6 +89,9 @@ a{
     justify-content: center;
 
     align-items: center;
+
+    padding-left: 70px;
+    padding-right: 70px;
 }
 
 .block-images{
